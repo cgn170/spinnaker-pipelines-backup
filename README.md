@@ -1,6 +1,6 @@
 # spinnaker-pipelines-backup
 
-Scripts to make a backup of applications and pipelines in Spinnaker, must have already configured [spin](https://github.com/spinnaker/spin) and [jq](https://stedolan.github.io/jq/)
+Scripts to make backup of applications and pipelines in Spinnaker, must have already configured [spin](https://github.com/spinnaker/spin) and [jq](https://stedolan.github.io/jq/)
 
 ```
 git clone https://github.com/cgn170/spinnaker-pipelines-backup.git
